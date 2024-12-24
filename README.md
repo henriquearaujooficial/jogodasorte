@@ -10,4 +10,4 @@ Projeto desenvolido em um curso no Alura abstraindo Lógica de Programação ond
 - JavaScript
 - Bootstrap
 
-![Jogo da Sorte](https://github.com/henriquearaujooficial/Portfolio/blob/master/.github/portfolio.png)
+![Jogo da Sorte](https://github.com/henriquearaujooficial/jogodasorte/blob/main/TelaJogo.jpg)
